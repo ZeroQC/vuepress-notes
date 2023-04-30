@@ -1,0 +1,15 @@
+{
+  "name": "vuepress-notes",
+  "version": "1.0.0",
+  "description": "notes",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.61"
+  }
+}
